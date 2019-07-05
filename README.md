@@ -22,3 +22,7 @@ You will need:
 3. On ManejoMail.py, need to change the credential of your SMTP server.
 
 Finaly configure cron/scheduled tasks to run reporteSemanal.py when you need.
+
+## Article
+
+Can find a more detailed article about how work on http://www.gsampallo.com/blog/2019/07/05/generar-un-reporte-en-excel-automatico-con-python/
