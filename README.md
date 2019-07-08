@@ -25,4 +25,8 @@ Finaly configure cron/scheduled tasks to run reporteSemanal.py when you need.
 
 ## Article
 
-Can find a more detailed article about how work on http://www.gsampallo.com/blog/2019/07/05/generar-un-reporte-en-excel-automatico-con-python/
+- Can find a more detailed article about how work on http://www.gsampallo.com/blog/2019/07/05/generar-un-reporte-en-excel-automatico-con-python/
+- How to send emails: http://www.gsampallo.com/blog/2019/07/08/enviar-correos-con-python/
+
+[![Video](https://img.youtube.com/vi/pY87fRdL6Bc/0.jpg)](https://www.youtube.com/watch?v=pY87fRdL6Bc)
+
