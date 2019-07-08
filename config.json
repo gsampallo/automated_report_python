@@ -1,0 +1,7 @@
+{
+    "smtp":"smtp",
+    "mail":"demo@demo.com",
+    "nombre":"UnserName",
+    "puerto":"PortNumer",
+    "password":"Password"
+}
